@@ -1,5 +1,5 @@
 # Open-Source-Ricochet
-A Remake of Ricochet in Godot Worked on with @oswald and @2dsnerd
+A Remake of Ricochet in Godot Worked on with @oswald17 and @2dsnerd
 
 ## Gameplay
 Not Completed as of Now
