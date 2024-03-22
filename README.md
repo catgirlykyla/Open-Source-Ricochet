@@ -1,2 +1,11 @@
 # Open-Source-Ricochet
-Created to make a new version of my favorite game, Worked on with @oswald
+A Remake of Ricochet in Godot Worked on with @oswald and @2dsnerd
+
+## Gameplay
+Not Completed as of Now
+
+## Licence
+GNU General Public License v3.0 
+<br>
+<br>
+To Broke to get anything else
