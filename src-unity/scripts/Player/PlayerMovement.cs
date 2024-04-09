@@ -1,5 +1,7 @@
 using UnityEngine;
 
+//This Script Is For Movement
+
 public class PlayerMovement : MonoBehaviour
 {
     public float speed = 5.0f;
