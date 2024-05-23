@@ -9,13 +9,13 @@
 
 # Gamemodes
 ### Free for All
-    In this mode, players compete against each other to see who can get the highest score. Each player has a set amount of time to score as many points as possible by hitting targets or opponents.
+#### In this mode, players compete against each other to see who can get the highest score. Each player has a set amount of time to score as many points as possible by hitting targets or opponents.
 
 ### Capture the Flag
-    In this mode, each team has a flag that they must protect while trying to capture the opposing team's flag. Players must work together to strategize and execute a plan to infiltrate the enemy's base and bring their flag back to their own base.
+#### In this mode, each team has a flag that they must protect while trying to capture the opposing team's flag. Players must work together to strategize and execute a plan to infiltrate the enemy's base and bring their flag back to their own base.
 
 ### More Gamemodes Are to Come
 <br>
 
 # Licence
-    GNU General Public License v3.0 | GPLv3 is a copyleft license and any modified versions of the software must also be licensed under the GPLv3.
+### GNU General Public License v3.0 | GPLv3 is a copyleft license and any modified versions of the software must also be licensed under the GPLv3.
