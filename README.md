@@ -1,4 +1,4 @@
-# 💿 Open Source Ricochet [![OSR](https://img.shields.io/badge/DOWNLOAD-green?label=💿&logo=&logoColor=redd)](https://gitlab.com/catgirlkyla/Open-Source-Ricochet/-/raw/main/builds/Pre%20Pre%20Alpha/Pre%20Pre%20Alpha%20V0.1/OSR%20Pre%20Pre%20Alpha%20V0.1%20-%20Windows.zip?ref_type=heads)
+# 💿 Open Source Ricochet [![OSR](https://img.shields.io/badge/DOWNLOAD-green?label=💿&logo=&logoColor=redd)](https://github.com/catgirlykyla/Open-Source-Ricochet/releases/tag/Alpha)
 # Native Linux Binary Coming in Future but Works With Wine/Proton for Now
 ### Open Source Ricochet is a arena-shooter game that takes inspiration from Valve's game Ricochet from 2000. This open-source adaptation invites players to step into a whimsical arena where they can hone their skills in a variety of game modes. With a focus on accessibility and fun.
 <br>
