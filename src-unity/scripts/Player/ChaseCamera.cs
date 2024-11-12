@@ -16,6 +16,12 @@ private void Start()
 {
     Cursor.lockState = CursorLockMode.Locked;
     Cursor.visible = false;
+
+    if (Input.GetKeyDown(KeyCode.Escape)){
+        Cursor.visible = true;
+        mouseX = 0
+        mouseY = 0
+    }
 }
 
 private void Update()
